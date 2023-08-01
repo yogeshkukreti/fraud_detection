@@ -8,3 +8,6 @@ def model2():
 
 def model2():
     print("adding code for ML Model2")
+
+
+print("Model2 is performing best")
